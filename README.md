@@ -6,5 +6,4 @@ Follow the attached notebook instructions to access your own Spotify data. You c
 
 <img width="216" height="216" alt="image" src="https://github.com/user-attachments/assets/f548c52e-2793-4845-bb9d-8ef2e1ffb04c" /> 
 
-
-
+If you have questions/comments/suggestions, please open an issue!
